@@ -87,6 +87,10 @@ LFU:
 I don't see the Belady's anomaly happends when using LFU for these reference strings, but will it happends for other reference string? Maybe a more solid proof is needed to know...
 
 
+## TODO
+[] Implement LRU.
+[] Combine the charts.
+
 ## Reference
 reference strings are used from here: 
 https://www.iasj.net/iasj?func=fulltext&aId=50712 
