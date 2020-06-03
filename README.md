@@ -88,8 +88,8 @@ I don't see the Belady's anomaly happends when using LFU for these reference str
 
 
 ## TODO
-[] Implement LRU.
-[] Combine the charts.
+- [ ] Implement LRU.
+- [ ] Combine the charts.
 
 ## Reference
 reference strings are used from here: 
