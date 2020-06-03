@@ -20,9 +20,9 @@ I'm not sure if these decision are right or not.
 
 ## Result
 reference string: 1,2,3,4,1,2,5,1,2,3,4,5
-FIFO:
+###FIFO
 ![image](FIFO.png)
-LFU:
+###LFU
 ![image](LFU.png)
 
 
