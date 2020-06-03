@@ -22,16 +22,22 @@ I'm not sure if these decision are right or not.
 reference string: 1,2,3,4,1,2,5,1,2,3,4,5
 
 FIFO
+
 ![image](FIFO.png)
+
 LFU
+
 ![image](LFU.png)
 
 
 reference string: 1,3,4,7,1,8,9,7,6,2,8,0
 
 FIFO
+
 ![image](FIFO_1.png)
+
 LFU
+
 ![image](LFU_1.png)
 
 
@@ -39,30 +45,42 @@ LFU
 reference string: 2,4,1,5,1,0,7,3,1
 
 FIFO:
+
 ![image](FIFO_2.png)
+
 LFU:
+
 ![image](LFU_2.png)
 
 reference string: 3,4,2,5,2,6,3,8,7,0,2,4,0,7,4
 
 FIFO:
+
 ![image](FIFO_3.png)
+
 LFU:
+
 ![image](LFU_3.png)
 
 reference string: 2,3,4,3,2,4,3,2,4,5,6,7,5,6,7,4,5,6,7,2,1
 
 FIFO:
+
 ![image](FIFO_4.png)
+
 LFU:
+
 ![image](LFU_4.png)
 
 
 reference string: 1,2,3,4,5,3,4,1,6,7,8,7,8,9,7,8,9,5,4,5,4,2
 
 FIFO:
+
 ![image](FIFO_5.png)
+
 LFU:
+
 ![image](LFU_5.png)
 
 ## Conclusion
